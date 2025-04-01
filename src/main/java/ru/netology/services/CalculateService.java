@@ -16,7 +16,4 @@ public class CalculateService {
         }
         return months;
     }
-
-    public void Calculate(int income, int expenses, int threshold) {
-    }
 }
